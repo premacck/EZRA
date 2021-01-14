@@ -1,0 +1,3 @@
+include ':ezra-lib'
+include ':sample'
+rootProject.name = "EZRA"
